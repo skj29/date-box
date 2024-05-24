@@ -17,4 +17,4 @@ jobs:
           TYPE: DAY
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: d1a100897e0eaa4c27c565b95a403a46
-          RECORDS:   1995-09-13 _ LifeStart | 2024-03-11 _ DevStart | 2024-02-12 _ UniStart "
+          RECORDS:   1995-09-13 _ LifeStart | 2024-03-11 _ DevStart | 2014-02-12 _ UniStart "
